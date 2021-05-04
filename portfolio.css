@@ -454,13 +454,13 @@ navbar styling */
 }
 
 .skills-content .right .html::before{
-  width: 90%;
+  width: 80%;
 }
 .skills-content .right .css::before{
   width: 60%;
 }
 .skills-content .right .js::before{
-  width: 80%;
+  width: 50%;
 }
 .skills-content .right .cpp::before{
   width: 70%;
