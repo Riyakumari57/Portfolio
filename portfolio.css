@@ -130,7 +130,7 @@ navbar styling */
 }
 
 .navbar .menu li a:hover {
-  color: #161b22;
+  color: #fff;
 }
 
 .navbar.sticky .menu li a:hover {
